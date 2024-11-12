@@ -1,3 +1,4 @@
 
 UNLOCKER BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/BO_6_UNLOCKER.exe
 INFERNO CHAIR BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/OT_BO6_INFERNO.exe
+EXTERNAL LDV2 BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/OT_LDV2.exe
