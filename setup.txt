@@ -1,0 +1,13 @@
+[design]
+highlight_color = #FFFC00
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.gg/ottservices
+guide_link = https://ot-services.gitbook.io/ot-services
+website_link = https://otservices.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
