@@ -1,3 +1,4 @@
 
 UNLOCK ALL MWIII,offline,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/MWIII_UNLOCK_ALL.exe
 SILENT CHAIR MWIII,online,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/MW3_SILENT_CHAIR.exe
+INFERNO CHAIR MWIII,online,1.00.01,https://raw.githubusercontent.com/avod245/280388361904979970_cloud/main/MW3.BO6_INFERNO_4.exe
